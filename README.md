@@ -1,12 +1,4 @@
-<h1 align="center">robsonjunior.dev</h1>
-
-<p align="center">
-    <img src="doc/img/cover.png" width="600px" />
-</p>
-
-- https://www.rjr.dev/
-- https://www.robsonjunior.dev/
-- https://www.robsongajunior.dev/
+<h1 align="center">Cukaz</h1>
 
 
 ## Commands
