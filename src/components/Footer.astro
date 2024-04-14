@@ -1,0 +1,29 @@
+---
+const today = new Date();
+const year = today.getFullYear();
+---
+
+<footer>
+    <p>
+        &copy; {year} <a href="https://www.cukaz.com.br/" title="Fábrica Cukaz">Cukaz</a>. Todos os direitos reservados.
+    </p>
+</footer>
+<style lang="scss">
+    footer {
+        padding: .5rem 1rem;
+        background: rgba(0, 0, 0, 0.5);
+        backdrop-filter: blur(10px);
+        color: var(--light);
+        text-align: center;
+
+        p {
+            font-size: .75rem;
+        }
+    }
+    .social-links {
+        display: flex;
+        justify-content: center;
+        gap: 1em;
+        margin-top: 1em;
+    }
+</style>
