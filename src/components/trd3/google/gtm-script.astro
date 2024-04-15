@@ -9,13 +9,13 @@
     }
 
     function loadScript() {
-      if (window.location.origin !== 'https://www.robsonjunior.dev' || window.location.search.match(/trd3=false/)) {
+      if (window.location.origin !== 'https://www.cukaz.com.br' || window.location.search.match(/trd3=false/)) {
         console.log('Google Tag Manager: disabled');
         return;
       }
 
       gtag('js', new Date());
-      gtag("config", 'GTM-PD9CKQS5');
+      gtag("config", '[id]');
 
       (function (w, l) {
         w[l] = w[l] || [];
@@ -27,7 +27,7 @@
 
       let script = document.createElement('script');
       script.async = true;
-      script.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-PD9CKQS5';
+      script.src = 'https://www.googletagmanager.com/gtm.js?id=[id]';
       document.head.appendChild(script);
     };
 
