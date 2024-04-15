@@ -2,12 +2,31 @@
 import LayoutDefault from "@layouts/Default.astro";
 ---
 
-<LayoutDefault>
-    <h1>
-        Cukaz.com.br
-    </h1>
-    
-    <p>
-        Seja bem vindo. Estamos em construção!
-    </p>
+<LayoutDefault> 
+    <section>
+        <video autoplay="true" src="/static/videos/cucaz_montagem.mp4"></video>
+    </section>
 </LayoutDefault>
+
+<style lang="scss" scoped>
+    html {
+        overflow: hidden;
+    }
+
+    section {
+        width: 100%;
+        height: 100vh;
+        background: white;
+        position: relative;
+        top: -60px;
+        left: 0;
+        overflow: hidden;
+        margin-bottom: -120px;
+    }
+
+    video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover; /* This will make sure the video covers the entire container without distortion */
+    }
+</style>
