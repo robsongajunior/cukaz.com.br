@@ -1,0 +1,4 @@
+.DS_Store
+.edge
+node_modules/
+public/static/.DS_Store
