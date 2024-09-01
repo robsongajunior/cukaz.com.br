@@ -2,8 +2,12 @@
 	<Card
 		class="h-full text-balance"
 		:pt="{
-			body: {class: '!p-3 text-[#E9DAD2]'},
-			caption: { class: 'flex flex-col justify-between !flex-row' }
+			root: { class: '!bg-[#222222] border-1 border-stone-700'},
+			body: { class: '!py-2 px-3' },
+			caption: { class: 'flex flex-col justify-between !flex-row gap-6' },
+			label: { class: 'text-white' },
+			title: { class: 'text-white flex items-center text-sm' },
+			subtitle: { class: 'flex items-center text-white text-sm' }
 		}"
 	>
 		<!-- <template #header>
@@ -11,13 +15,14 @@
 		</template> -->
 		
 		<template #title>
-			{{ item.title.replace('Cuca de ', '') }}
+			<p class="m-0">
+				{{ item.title.replace('Cuca de ', '') }}
+			</p>
 		</template>
 		<template #subtitle>
-			<span class="flex">
-				{{ item.price.value }}
-			</span>
+			{{ item.price.value }}
 		</template>
+
 		<!--
 		<template #content>
 			<p class="m-0">
@@ -55,8 +60,8 @@
 
 <script setup>
 	import Card from 'primevue/card';
-	import Button from 'primevue/button';
-	import InputNumber from 'primevue/inputnumber';
+	// import Button from 'primevue/button';
+	// import InputNumber from 'primevue/inputnumber';
 	
 	const props = defineProps({
 		item: {

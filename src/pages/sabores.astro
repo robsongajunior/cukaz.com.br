@@ -3,7 +3,7 @@ import LayoutDefault from "@layouts/Default.astro";
 import { viewDataFlavors } from '@i18n/translations';
 
 import Card from '@components/vue/card.vue';
-import Button from 'primevue/button';
+// import Button from 'primevue/button';
 ---
 
 <LayoutDefault
@@ -11,19 +11,19 @@ import Button from 'primevue/button';
 	description="A Cukaz! nasceu para levar memórias afetivas para a mesa dos nossos amigos clientes"
 >
 	<div class="px-container py-10">
-		<section>
-			<h1 class="text-slate-900 text-4xl sm:text-5xl lg:text-6xl tracking-tight text-white mb-6">
+		<section class="max-w-[540px] m-auto">
+			<h1 class="text-4xl sm:text-5xl lg:text-6xl tracking-tight text-white mb-6">
 				Sabores
 			</h1>
 
-			<p class="max-w-[600px]">
+			<p>
 				Típicas Cucas da culinária alemã.
 			</p>
-			<p class="max-w-[600px]">
+			<p>
 				Sob a massa doce e macia, uma generosa camada de cobertura doce à sua escolha, finalizada com o toque especial da farofa crocante.
 			</p>
 			
-			<div class="grid gap-3 max-w-[768px]">
+			<div class="grid gap-2 mt-4">
 				{
 					viewDataFlavors.items.sort(function (a, b) {
 						if (a.title > b.title) return 1;

@@ -43,8 +43,12 @@
 		<Menu
 			:model="props.items"
 			:pt="{
-				root: {class: '!bg-[transparent] !border-0'},
-				icon: { class: 'text-white' }
+				root: {class: '!bg-[transparent] !border-0 !text-white'},
+				icon: { class: '!text-white' },
+				label: { class: '!text-white' },
+				content: { class: '!text-white' },
+				menu: { class: '!text-white' },
+				menuitem: { class: '!text-white' }
 			}"
 		/>
   </Sidebar>

@@ -6,9 +6,9 @@ import LayoutDefault from "@layouts/Default.astro";
     title="Sobre"
     description="A Cukaz! nasceu para levar memórias afetivas para a mesa dos nossos amigos clientes"
 >
-	<div class="px-container py-10">
+	<div class="px-container py-10 min-h-[calc(100vh-56px-56px)]">
 		<section>
-			<div class="flex gap-12 justify-center">
+			<div class="flex flex-col lg:flex-row gap-12 justify-center">
 				<div class="md:w-xl max-w-xl">
 					<h1 class="text-slate-900 text-4xl sm:text-5xl lg:text-6xl tracking-tight text-white">
 						Sobre a Cukaz
@@ -21,7 +21,7 @@ import LayoutDefault from "@layouts/Default.astro";
 						Sob a massa doce e macia, uma generosa camada de cobertura doce à sua escolha, finalizada com o toque especial da farofa crocante.
 					</p>
 
-					<hr class="my-8"/>
+					<br>
 					
 					<h2 class="text-3xl">
 						Uma Explosão de sabores
@@ -49,7 +49,13 @@ import LayoutDefault from "@layouts/Default.astro";
 				</div>
 				<div>
 					<div class="w-full">
-						<video class="max-h-[80vh] rounded border border-stone-700" autoplay muted loop src="https://www.cukaz.com.br/static/videos/cucaz_montagem.mp4">
+						<video
+							loop
+							muted	
+							autoplay
+							class="max-h-[50vh] m-auto rounded border border-stone-700"
+							src="https://www.cukaz.com.br/static/videos/cucaz_lareira_mordida.mp4"
+						>
 						</video>
 					</div>
 				</div>

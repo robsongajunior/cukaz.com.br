@@ -5,17 +5,17 @@ import Headerrightsidebar from './vue/headerrightsidebar.vue';
 const items = [
 	{
 		label: 'Sobre Nós',
-		icon: 'pi pi-home',
+		// icon: 'pi pi-home',
 		url: '/sobre/'
 	},
 	{
 		label: 'Sabores',
-		icon: 'pi pi-star',
+		// icon: 'pi pi-star',
 		url: '/sabores/'
 	},
 	{
 		label: 'Contato',
-		icon: 'pi pi-envelope',
+		// icon: 'pi pi-envelope',
 		url: '/contato/'
 	}
 ];
@@ -39,8 +39,8 @@ const {} = Astro.props;
 					{
 						items.map(item => {
 							return (
-								<li class="text-sm">
-									<a href={item.url} title={item.label}>
+								<li>
+									<a class="text-sm" href={item.url} title={item.label}>
 										{item.label}
 									</a>
 								</li>
