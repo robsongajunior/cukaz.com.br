@@ -1,14 +1,39 @@
 import { defineConfig } from 'astro/config';
-// import mdx from '@astrojs/mdx';
+import tailwind from '@astrojs/tailwind';
 import vue from '@astrojs/vue';
-// import sitemap from '@astrojs/sitemap';
+
+const productionBuild = import.meta.env.PROD;
 
 export default defineConfig({
   site: 'https://www.cukaz.com.br',
-  // trailingSlash: 'always', // for server
+  trailingSlash: 'always',
+  compressHTML: productionBuild ? true : false,
   integrations: [
-        vue(),
-        // mdx(),
-        // sitemap()
-    ]
+    tailwind({
+      applyBaseStyles: false
+    }),
+    vue({
+      appEntrypoint: '/src/vue.config.js'
+    })
+  ],
+  vite: {
+    ssrBuild: true,
+    server: {
+      fs: {
+        allow: ['..']
+      }
+    },
+    plugins: [],
+    ssr: {
+      noExternal: [
+        '@astrojs/vue',
+        // '@aziontech/webkit'
+      ],
+      external: [
+        // 'algoliasearch',
+        // 'instantsearch.js',
+        // 'vue-instantsearch/vue3/es',
+      ]
+    }
+  }
 });

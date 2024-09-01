@@ -1,0 +1,29 @@
+{
+  "logo": {
+    "img": {
+      "src": "/static/images/logo.png",
+      "alt": ""
+    },
+    "link": {
+      "href": "/",
+      "title": "Página Inicial | cukaz.com.br"
+    }
+  },
+  "nav": [
+    {
+      "label": "Sobre Nós",
+      "icon": "pi pi-home",
+      "url": "/sobre/"
+    },
+    {
+      "label": "Sabores",
+      "icon": "pi pi-star",
+      "url": "/sabores/"
+    },
+    {
+      "label": "Contato",
+      "icon": "pi pi-envelope",
+      "url": "/contato/"
+    }
+  ]
+}

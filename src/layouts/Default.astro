@@ -2,30 +2,28 @@
 import Head from "@components/Head.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
-import NavigationRight from "@components/vue/NavigationRight.vue";
 import Trd3 from "@components/Trd3.astro";
-
-const {
-    description,
-    title
-} = Astro.props;
-
-import { getData } from '@utils/data.js';
+const { description, title } = Astro.props;
 ---
+<html
+	dir="ltr"
+	lang="pt-BR"
+	class=""
+>
+	<head>
+		<Head
+			title={title}
+			description={description}
+		/>
+	</head>
+	<body>
+		<Header />
 
-<html lang="pt-BR">
-    <head>
-        <Head title={title} description={description} />
-    </head>
-    <body>
-        <Header />
-        <NavigationRight client:load items={[]}/>
-        
-        <main>
-            <slot />
-        </main>
-        <Footer />
-        
-        <Trd3 />
-    </body>
+		<main>
+			<slot />
+		</main>
+
+		<Footer />
+		<Trd3 />
+	</body>
 </html>

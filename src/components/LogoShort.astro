@@ -1,43 +1,29 @@
 ---
-const { href, title } = Astro.props;
+interface Props {
+	href: String,
+	title: String,
+	src: String,
+	alt: String
+}
+
+const {
+	href,
+	title,
+	src,
+	alt
+} = Astro.props;
 ---
 
 <a
-    href={href}
-    title={title}
-    id="LogoShort"
-    class="logo-short">
-
-    <p>
-        <strong>Cukaz</strong>
-    </p>
+	href={href}
+	title={title}
+	class="logo-short hover:cursor-pointer"
+>
+	<img
+		src={src}
+		alt={alt}
+		width="80"
+		height="auto"
+		class="inline"
+	/>
 </a>
-
-<style lang="scss" scoped>
-    .logo-short {
-        display: inline-block;
-        color: var(--lighter);
-        text-decoration: none;
-        display: flex;
-        align-items: center;
-
-
-        &:hover {
-            cursor: pointer;
-            color: var(--median-strong);
-        }
-
-        p {
-            font-weight: 200;
-            font-size: 1rem;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-        }
-
-        strong {
-            font-weight: 900;
-            color: var(--light);
-        }
-    }
-</style>

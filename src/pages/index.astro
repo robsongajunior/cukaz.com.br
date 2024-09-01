@@ -2,7 +2,10 @@
 import LayoutDefault from "@layouts/Default.astro";
 ---
 
-<LayoutDefault> 
+<LayoutDefault
+    title="Página inicial"
+    description="A Cukaz! nasceu para levar memórias afetivas para a mesa dos nossos amigos clientes"
+>
     <section>
         <video autoplay muted loop src="https://www.cukaz.com.br/static/videos/cucaz_montagem.mp4"></video>
         <!-- <video autoplay muted loop src="/static/videos/cucaz_lareira_mordida.mp4"></video> -->
@@ -10,19 +13,12 @@ import LayoutDefault from "@layouts/Default.astro";
 </LayoutDefault>
 
 <style lang="scss" scoped>
-    html {
-        overflow: hidden;
-    }
-
     section {
         width: 100%;
-        height: 100vh;
-        background: white;
+        height: calc(100vh - 56px - 56px);
         position: relative;
-        top: -60px;
-        left: 0;
+				z-index: 1;
         overflow: hidden;
-        margin-bottom: -120px;
     }
 
     video {

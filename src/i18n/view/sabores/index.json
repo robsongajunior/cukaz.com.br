@@ -1,0 +1,599 @@
+{
+	"base": "R$",
+	"items": [
+    {
+      "title": "Cuca de goiabada com requeijão",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/962088/picture/medium/240522173921",
+        "alt": "Produto: Cuca de goiabada com requeijão"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de morango",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/965093/picture/medium/240522173940",
+        "alt": "Produto: Cuca de morango"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 33,00"
+      }
+    },
+    {
+      "title": "Cuca de uva",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/965096/picture/medium/240116172004",
+        "alt": "Produto: Cuca de uva"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 30,00"
+      }
+    },
+    {
+      "title": "Cuca de chocolate ao leite",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/965102/picture/medium/240126164142",
+        "alt": "Produto: Cuca de chocolate ao leite"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 30,00"
+      }
+    },
+    {
+      "title": "Cuca de abacaxi com chocolate branco",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/965110/picture/medium/240522174007",
+        "alt": "Produto: Cuca de abacaxi com chocolate branco"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 33,00"
+      }
+    },
+    {
+      "title": "Cuca de goiabada",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/965119/picture/medium/240522174025",
+        "alt": "Produto: Cuca de goiabada "
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 33,00"
+      }
+    },
+    {
+      "title": "Cuca de chocolate com morango",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/1308160/picture/medium/240522174051",
+        "alt": "Produto: Cuca de chocolate com morango"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de abacaxi",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/1308226/picture/medium/240306155807",
+        "alt": "Produto: Cuca de abacaxi"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 30,00"
+      }
+    },
+    {
+      "title": "Cuca de requeijão",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/1308255/picture/medium/240306161640",
+        "alt": "Produto: Cuca de requeijão"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 30,00"
+      }
+    },
+    {
+      "title": "Cuca de linguiça",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/1308276/picture/medium/240522174125",
+        "alt": "Produto: Cuca de linguiça"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 33,00"
+      }
+    },
+    {
+      "title": "Cuca de chocolate branco",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/1308322/picture/medium/240126164205",
+        "alt": "Produto: Cuca de chocolate branco"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 30,00"
+      }
+    },
+    {
+      "title": "Cuca de doce de leite",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/1329075/picture/medium/240306161746",
+        "alt": "Produto: Cuca de doce de leite"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 30,00"
+      }
+    },
+    {
+      "title": "Cuca de chocolate preto e branco",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/1418496/picture/medium/231216172209",
+        "alt": "Produto: Cuca de chocolate preto e branco"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 30,00"
+      }
+    },
+    {
+      "title": "Cuca de coco",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/1418512/picture/medium/230829200114",
+        "alt": "Produto: Cuca de coco"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 32,00"
+      }
+    },
+    {
+      "title": "Cuca de coco com leite condensado",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/1424563/picture/medium/230829200424",
+        "alt": "Produto: Cuca de coco com leite condensado"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de farofa",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/1927582/picture/medium/240522174245",
+        "alt": "Produto: Cuca de farofa"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 27,00"
+      }
+    },
+    {
+      "title": "Cuca de chocolate com avelã",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/2012530/picture/medium/230829195107",
+        "alt": "Produto: Cuca de chocolate com avelã"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de chocolate com ovomaltine",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/2012535/picture/medium/240522174310",
+        "alt": "Produto: Cuca de chocolate com ovomaltine"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de banana",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/2012545/picture/medium/240306161806",
+        "alt": "Produto: Cuca de banana"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 30,00"
+      }
+    },
+    {
+      "title": "Cuca de maçã",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/2846352/picture/medium/240306161822",
+        "alt": "Produto: Cuca de maçã"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 30,00"
+      }
+    },
+    {
+      "title": "Cuca de chocolate branco com nozes",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/2846353/picture/medium/240522174357",
+        "alt": "Produto: Cuca de chocolate branco com nozes"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 37,00"
+      }
+    },
+    {
+      "title": "Cuca de stikadinho",
+      "image": {
+        "src": "",
+        "alt": ""
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de doce de leite com coco",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/2846357/picture/medium/230829195803",
+        "alt": "Produto: Cuca de doce de leite com coco"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de abacaxi com coco",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/2846358/picture/medium/230829195751",
+        "alt": "Produto: Cuca de abacaxi com coco"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de nozes",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/2846359/picture/medium/240522174425",
+        "alt": "Produto: Cuca de nozes"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de chocolate ao leite com oreo",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/2846406/picture/medium/230829195741",
+        "alt": "Produto: Cuca de chocolate ao leite com oreo"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de linguiça com requeijão",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/3431706/picture/medium/240522163927",
+        "alt": "Produto: Cuca de linguiça com requeijão "
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de m&ms",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/3431721/picture/medium/240522174453",
+        "alt": "Produto: Cuca de m&ms"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 37,00"
+      }
+    },
+    {
+      "title": "Cuca de chocolate branco com avelã",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211264/picture/medium/230829195717",
+        "alt": "Produto: Cuca de chocolate branco com avelã"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de baunilha",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211268/picture/medium/240306161849",
+        "alt": "Produto: Cuca de baunilha"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 30,00"
+      }
+    },
+    {
+      "title": "Cuca de beijinho de colher",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211275/picture/medium/240522174523",
+        "alt": "Produto: Cuca de beijinho de colher"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de brigadeiro",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211277/picture/medium/230829194531",
+        "alt": "Produto: Cuca de brigadeiro"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de damasco",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211286/picture/medium/240522174616",
+        "alt": "Produto: Cuca de damasco"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de damasco com chocolate branco",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211291/picture/medium/240522175444",
+        "alt": "Produto: Cuca de damasco com chocolate branco"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 37,00"
+      }
+    },
+    {
+      "title": "Cuca de damasco com chocolate ao leite",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211299/picture/medium/240522175506",
+        "alt": "Produto: Cuca de damasco com chocolate ao leite"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 37,00"
+      }
+    },
+    {
+      "title": "Cuca de maracujá",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211305/picture/medium/230829195340",
+        "alt": "Produto: Cuca de maracujá "
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 30,00"
+      }
+    },
+    {
+      "title": "Cuca de maracujá com chocolate",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211307/picture/medium/240522175525",
+        "alt": "Produto: Cuca de maracujá com chocolate"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 33,00"
+      }
+    },
+    {
+      "title": "Cuca de maracujá com chocolate branco",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211311/picture/medium/240522175551",
+        "alt": "Produto: Cuca de maracujá com chocolate branco"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 33,00"
+      }
+    },
+    {
+      "title": "Cuca de frutas vermelhas",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211316/picture/medium/230829195400",
+        "alt": "Produto: Cuca de frutas vermelhas"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 30,00"
+      }
+    },
+    {
+      "title": "Cuca de frutas vermelhas com chocolate",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211320/picture/medium/240522175611",
+        "alt": "Produto: Cuca de frutas vermelhas com chocolate"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 33,00"
+      }
+    },
+    {
+      "title": "Cuca de frutas vermelhas com chocolate branco",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211323/picture/medium/240522175626",
+        "alt": "Produto: Cuca de frutas vermelhas com chocolate branco"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 33,00"
+      }
+    },
+    {
+      "title": "Cuca de leite condensado",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211326/picture/medium/230829194616",
+        "alt": "Produto: Cuca de leite condensado"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 30,00"
+      }
+    },
+    {
+      "title": "Cuca de doce de leite com chocolate branco",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211329/picture/medium/240522175650",
+        "alt": "Produto: Cuca de doce de leite com chocolate branco"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de amora",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211336/picture/medium/240522175709",
+        "alt": "Produto: Cuca de amora"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 33,00"
+      }
+    },
+    {
+      "title": "Cuca de uva com chocolate",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211340/picture/medium/240522175742",
+        "alt": "Produto: Cuca de uva com chocolate"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 33,00"
+      }
+    },
+    {
+      "title": "Cuca de uva com chocolate branco",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211342/picture/medium/240522175727",
+        "alt": "Produto: Cuca de uva com chocolate branco"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 33,00"
+      }
+    },
+    {
+      "title": "Cuca de amora com chocolate ao leite",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211352/picture/medium/240522175803",
+        "alt": "Produto: Cuca de amora com chocolate ao leite"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de amora com chocolate branco",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211355/picture/medium/240522175819",
+        "alt": "Produto: Cuca de amora com chocolate branco"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de baunilha com ouro branco",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/9211359/picture/medium/230829195557",
+        "alt": "Produto: Cuca de baunilha com ouro branco"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de linguiça com requeijão 4 queijos",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/10002539/picture/medium/240606204810",
+        "alt": "Produto: Cuca de linguiça com requeijão 4 queijos"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 37,00"
+      }
+    },
+    {
+      "title": "Cuca de doce de leite com paçoca",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/10002550/picture/medium/230829194651",
+        "alt": "Produto: Cuca de doce de leite com paçoca "
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de chocolate branco com oreo",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/10002987/picture/medium/230829201246",
+        "alt": "Produto: Cuca de chocolate branco com oreo"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de chocolate branco com cookies",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/10003013/picture/medium/230829201208",
+        "alt": "Produto: Cuca de chocolate branco com cookies "
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 35,00"
+      }
+    },
+    {
+      "title": "Cuca de blueberry",
+      "image": {
+        "src": "https://www.goomer.app/webmenu/cukaz/product/10003040/picture/medium/240522175906",
+        "alt": "Produto: Cuca de blueberry"
+      },
+      "price": {
+        "base": "",
+        "value": "R$ 37,00"
+      }
+    }
+  ]
+}

@@ -1,17 +1,10 @@
-export function mapDefaultExports(modules) {
-    let exportMap = {};
-
-    for (const [path, module] of Object.entries(modules)) {
-        exportMap = module.default;
-    }
-
-    return exportMap;
-}
+import { mapDefaultExports } from '@utils/mapDefaultExports';
 
 const getData = {
-    components: {
-        header: mapDefaultExports(import.meta.glob('../i18n/component/header/index.js', { eager: true }))
-    }
+	components: {
+		header: mapDefaultExports(import.meta.glob('@i18n/component/header.json', { eager: true })),
+		footer: mapDefaultExports(import.meta.glob('@i18n/component/footer.json', { eager: true }))
+	}
 };
 
 export { getData };

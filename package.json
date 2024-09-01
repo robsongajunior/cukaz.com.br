@@ -1,29 +1,33 @@
 {
-    "name": "cukaz.com.br",
-    "type": "module",
-    "version": "0.0.1",
-    "scripts": {
-        "dev": "astro dev",
-        "start": "astro dev",
-        "build": "astro build",
-        "preview": "astro preview",
-        "astro": "astro"
-    },
-    "dependencies": {
-        "@astrojs/check": "^0.3.1",
-        "@astrojs/mdx": "^2.1.0",
-        "@astrojs/rss": "^3.0.0",
-        "@astrojs/sitemap": "^2.0.2",
-        "@astrojs/vue": "^4.0.0",
-        "@nanostores/vue": "^0.10.0",
-        "astro": "4.3.5",
-        "nanostores": "^0.9.5",
-        "typescript": "^5.2.2"
-    },
-    "engines": {
-        "node": "20.5.1"
-    },
-    "devDependencies": {
-        "sass": "^1.67.0"
-    }
+  "name": "cukaz.com.br",
+  "type": "module",
+  "version": "0.2.0",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.3.1",
+    "@astrojs/tailwind": "^5.1.0",
+    "@astrojs/vue": "^4.0.0",
+    "@nanostores/vue": "^0.10.0",
+    "@primevue/themes": "4.0.0",
+    "@tailwindcss/typography": "^0.5.13",
+    "nanostores": "^0.9.5",
+    "primeflex": "^3.3.1",
+    "primeicons": "^7.0.0",
+    "primevue": "4.0.0",
+    "tailwindcss": "^3.4.4",
+    "typescript": "^5.2.2"
+  },
+  "engines": {
+    "node": "20.5.1"
+  },
+  "devDependencies": {
+    "astro": "^4.11.5",
+    "sass": "^1.67.0"
+  }
 }
